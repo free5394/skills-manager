@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ca7b193a-ff4b-4da4-a4f7-954796af4f65",
+  "path": "baoyu-danger-x-to-markdown",
+  "path_key": "baoyu-danger-x-to-markdown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

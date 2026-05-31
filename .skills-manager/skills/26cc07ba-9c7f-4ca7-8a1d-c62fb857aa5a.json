@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "26cc07ba-9c7f-4ca7-8a1d-c62fb857aa5a",
+  "path": "baoyu-infographic",
+  "path_key": "baoyu-infographic",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

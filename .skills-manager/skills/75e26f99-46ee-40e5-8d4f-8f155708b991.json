@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "75e26f99-46ee-40e5-8d4f-8f155708b991",
+  "path": "modern-python",
+  "path_key": "modern-python",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "trailofbits/skills/modern-python",
+    "subpath": "plugins\\modern-python",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "9b01da9e-42c7-47d6-aba4-efb1fd65f8f5",
+  "path": "huashu-topic-gen",
+  "path_key": "huashu-topic-gen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

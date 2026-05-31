@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5107923f-d9a1-4a6b-8681-a0e27f173292",
+  "path": "huashu-video-check",
+  "path_key": "huashu-video-check",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

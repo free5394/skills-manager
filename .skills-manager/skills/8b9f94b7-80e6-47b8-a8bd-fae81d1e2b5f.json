@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "8b9f94b7-80e6-47b8-a8bd-fae81d1e2b5f",
+  "path": "baoyu-imagine",
+  "path_key": "baoyu-imagine",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

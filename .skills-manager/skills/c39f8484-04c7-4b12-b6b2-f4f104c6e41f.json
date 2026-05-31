@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "c39f8484-04c7-4b12-b6b2-f4f104c6e41f",
+  "path": "zhangxuefeng-perspective",
+  "path_key": "zhangxuefeng-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

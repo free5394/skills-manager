@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b6b66362-0b9f-4d97-971b-58f2169d41d7",
+  "path": "python-project-structure",
+  "path_key": "python-project-structure",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "wshobson/agents/python-project-structure",
+    "subpath": "plugins\\python-development\\skills\\python-project-structure",
+    "branch": null
+  }
+}

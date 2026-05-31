@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "6aa4323d-4a81-4cee-a913-e07535bab724",
+  "path": "huashu-video-outline",
+  "path_key": "huashu-video-outline",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
