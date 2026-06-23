@@ -4,7 +4,9 @@
   "path": "gh-cli",
   "path_key": "gh-cli",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "github"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "github/awesome-copilot/gh-cli",
