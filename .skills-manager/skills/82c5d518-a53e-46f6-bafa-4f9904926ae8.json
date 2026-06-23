@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "82c5d518-a53e-46f6-bafa-4f9904926ae8",
+  "path": "nuwa-skill",
+  "path_key": "nuwa-skill",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/nuwa-skill",
+    "subpath": null,
+    "branch": null
+  }
+}

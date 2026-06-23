@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5023f0ca-7382-4a64-b447-1a90d5eb5159",
+  "path": "steve-jobs-perspective",
+  "path_key": "steve-jobs-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/steve-jobs-perspective",
+    "subpath": "examples\\steve-jobs-perspective",
+    "branch": null
+  }
+}

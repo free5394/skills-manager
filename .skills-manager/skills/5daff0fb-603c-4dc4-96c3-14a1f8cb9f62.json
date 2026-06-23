@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "5daff0fb-603c-4dc4-96c3-14a1f8cb9f62",
+  "path": "release-skills",
+  "path_key": "release-skills",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jimliu/baoyu-skills/release-skills",
+    "subpath": ".claude\\skills\\release-skills",
+    "branch": null
+  }
+}

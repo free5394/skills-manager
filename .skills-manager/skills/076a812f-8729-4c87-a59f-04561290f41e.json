@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "076a812f-8729-4c87-a59f-04561290f41e",
+  "path": "feynman-perspective",
+  "path_key": "feynman-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/feynman-perspective",
+    "subpath": "examples\\feynman-perspective",
+    "branch": null
+  }
+}

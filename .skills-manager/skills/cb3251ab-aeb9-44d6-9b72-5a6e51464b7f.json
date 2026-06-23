@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "cb3251ab-aeb9-44d6-9b72-5a6e51464b7f",
+  "path": "huashu-speech-coach",
+  "path_key": "huashu-speech-coach",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-speech-coach",
+    "subpath": "huashu-speech-coach",
+    "branch": null
+  }
+}

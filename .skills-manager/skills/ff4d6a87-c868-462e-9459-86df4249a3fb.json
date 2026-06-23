@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ff4d6a87-c868-462e-9459-86df4249a3fb",
+  "path": "huashu-md-to-pdf",
+  "path_key": "huashu-md-to-pdf",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-md-to-pdf",
+    "subpath": "huashu-md-to-pdf",
+    "branch": null
+  }
+}

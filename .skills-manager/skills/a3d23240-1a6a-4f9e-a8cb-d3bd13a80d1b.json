@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a3d23240-1a6a-4f9e-a8cb-d3bd13a80d1b",
+  "path": "baoyu-format-markdown",
+  "path_key": "baoyu-format-markdown",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jimliu/baoyu-skills/baoyu-format-markdown",
+    "subpath": "skills\\baoyu-format-markdown",
+    "branch": null
+  }
+}

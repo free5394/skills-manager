@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a0849a77-bcd4-431c-9701-ee73aaa142f8",
+  "path": "huashu-image-upload",
+  "path_key": "huashu-image-upload",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-image-upload",
+    "subpath": "huashu-image-upload",
+    "branch": null
+  }
+}

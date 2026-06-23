@@ -1,4 +1,4 @@
-<sub>🌐 <a href="README.en.md">English</a> · <b>中文</b></sub>
+<sub>🌐 <b>中文</b> · <a href="README.en.md">English</a></sub>
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 > *「打字。回车。一份能交付的设计。」*
 > *"Type. Hit enter. A finished design lands in your lap."*
 
-[![License](https://img.shields.io/badge/License-Personal%20Use%20Only-orange.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Agent-Agnostic](https://img.shields.io/badge/Agent-Agnostic-blueviolet)](https://skills.sh)
 [![Skills](https://img.shields.io/badge/skills.sh-Compatible-green)](https://skills.sh)
 
@@ -19,7 +19,7 @@
 
 3 到 30 分钟，你能 ship 一段**产品发布动画**、一个能点击的 App 原型、一套能编辑的 PPT、一份印刷级的信息图。
 
-不是「AI 做的还行」那种水平——是看起来像大厂设计团队做的。给 skill 你的品牌资产（logo、色板、UI 截图），它会读懂你的品牌气质；什么都不给，内置的 20 种设计语汇也能兜底到不出 AI slop。
+不是「AI 做的还行」那种水平——是看起来像大厂设计团队做的。给 skill 你的品牌资产（logo、色板、UI 截图），它会读懂你的品牌气质；什么都不给，**三套逻辑顾问 + 40 种 HTML 原生风格库**也能兜底到不出 AI slop。
 
 **你看到这篇 README 里的每一个动画，都是 huashu-design 自己做的。** 不是 Figma，不是 AE，就是一句话 prompt + skill 跑通。下次产品发布要做宣传片？现在你也能做。
 
@@ -28,6 +28,8 @@ npx skills add alchaincyf/huashu-design
 ```
 
 跨 agent 通用——Claude Code、Cursor、Codex、OpenClaw、Hermes 都能装。
+
+> 📣 **已改为 MIT 协议。** 自 2026-05-14 起本 skill 完全开源（[MIT License](LICENSE)），个人和**商用都免费**，无需事先授权。原「个人使用免费、企业商用需授权」的条款已作废。([查看变更](#license))
 
 [看效果](#demo-画廊) · [安装](#装上就能用) · [能做什么](#能做什么) · [核心机制](#核心机制) · [和 Claude Design 的关系](#和-claude-design-的关系)
 
@@ -44,6 +46,18 @@ npx skills add alchaincyf/huashu-design
   👉 <a href="https://www.huasheng.ai/huashu-design-hero/">访问带音效的 HTML 互动版</a> ·
   <a href="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/hero-animation-v10-en.mp4">下载 MP4（含 BGM+SFX · 10MB）</a>
 </sub></p>
+
+---
+
+## 📺 新手教程（花叔亲录）
+
+不知道怎么用？看花叔录的 huashu-design 上手教程：
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=m-_BlUdcIvw"><img src="https://img.youtube.com/vi/m-_BlUdcIvw/maxresdefault.jpg" alt="huashu-design 使用教程" width="70%"></a>
+</p>
+
+<p align="center"><sub>👉 <a href="https://www.youtube.com/watch?v=m-_BlUdcIvw">在 YouTube 观看完整教程</a></sub></p>
 
 ---
 
@@ -85,7 +99,7 @@ npx skills add alchaincyf/huashu-design
 | 时间轴动画 | MP4（25fps / 60fps 插帧）+ GIF（palette 优化）+ BGM | 8–12 min |
 | 设计变体 | 3+ 并排对比 · Tweaks 实时调参 · 跨维度探索 | 10 min |
 | 信息图 / 可视化 | 印刷级排版 · 可导 PDF/PNG/SVG | 10 min |
-| 设计方向顾问 | 5 流派 × 20 种设计哲学 · 推荐 3 方向 · 并行生成 Demo | 5 min |
+| 设计方向顾问 | **三套逻辑并行**（秒数轮盘 + 现实参照获奖站 + 最佳设计师）· 直接出 3 版真实视觉 | 5 min |
 | 5 维度专家评审 | 雷达图 + Keep/Fix/Quick Wins · 可操作修复清单 | 3 min |
 
 ---
@@ -94,7 +108,7 @@ npx skills add alchaincyf/huashu-design
 
 ### 设计方向顾问
 
-模糊需求时的 fallback：从 5 流派 × 20 种设计哲学里挑 3 个差异化方向，并行生成 3 个 Demo 让你选。
+模糊需求时的 fallback：**三套互补逻辑并行**——秒数轮盘（20 选 1 打破惯性）+ 现实参照（世界级获奖网站迁移）+ 最佳设计师（顶级工作室哲学），直接出 3 版**真实视觉**让你看着选，不让你在文字里盲选风格。背后是 **40 种 HTML 原生风格库**（网页 20 + PPT 20，纯 CSS 无需生图）。
 
 <p align="center"><img src="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/w3-fallback-advisor.gif" width="100%"></p>
 
@@ -112,7 +126,7 @@ Stage + Sprite 时间片段模型 · `useTime` / `useSprite` / `interpolate` / `
 
 ### HTML Slides → 可编辑 PPTX
 
-HTML deck 浏览器演讲 · `html2pptx.js` 读 DOM 的 computedStyle 逐元素翻译成 PowerPoint 对象 · 导出的是**真文本框**，不是图片铺底。
+HTML deck 浏览器演讲 · `html2pptx.js` 读 DOM 的 computedStyle 逐元素翻译成 PowerPoint 对象 · 导出的是**真文本框**，PPT 里双击即可编辑。
 
 <p align="center"><img src="https://github.com/alchaincyf/huashu-design/releases/download/v2.0/c2-slides-pptx.gif" width="100%"></p>
 
@@ -148,6 +162,38 @@ HTML deck 浏览器演讲 · `html2pptx.js` 读 DOM 的 computedStyle 逐元素�
 
 ---
 
+## Showcase · 真实案例
+
+### 鹦鹉进化史网站 · 设计方向顾问三套逻辑实战（2.0）
+
+> **Live demo · [https://www.huasheng.ai/parrots/](https://www.huasheng.ai/parrots/)**
+
+一句「做个介绍鹦鹉进化史的网站」、零额外要求，skill 自动跑完整 2.0 顾问流程：先判断图片是内容必需 → 抓公共领域博物插画（Edward Lear / John Gould 的鹦鹉图录）→ **三套逻辑并行**（秒数轮盘 + 现实参照获奖站 + 原研哉「白」哲学）各出一版真实视觉。**素材齐了再设计，不是边设计边用色块占位。**
+
+### 「聊聊 skill」 · PM after-party 演讲 deck
+
+> **Live demo · [https://skill-huasheng.vercel.app](https://skill-huasheng.vercel.app)**
+
+13 页 HTML deck，**全部用 huashu-design 完成**：
+
+- 黑底极简衬线视觉系统（cover / about / hook / what / why / closing）
+- 2 个带 BGM + SFX 的 22 秒 cinematic demo（Nuwa skill workflow + Darwin skill workflow），各采用**完全独立的视觉语言**：
+  - **Nuwa**：3D 知识 orbit + Pentagon 提炼 + SKILL.md typewriter + 「21 分钟」hero reveal
+  - **Darwin**：autoresearch loop spin + v1/v5 并列 diff + Hill-Climb 全屏曲线 + Ratchet gear lock
+- 每个 cinematic 默认显示**完整静态 workflow dashboard**（观众随时能看清 skill 怎么跑），点 ▶ 才触发动画，跑完自动 fade 回 dashboard
+- 嵌入 huasheng.ai 的 25 秒 hero 动画（iframe 本地化兜底）
+- 真实数据：14,495 stargazers 真实曲线（gh API 拉取）+ DeepSeek V4 真实 specs（WebSearch 验证）
+- 真实 AI 素材：用 `huashu-gpt-image` 跑 4×2 grid 大图，`extract_grid.py` 抠出 8 张独立透明 PNG，做 3D orbit 漂浮
+
+**适合参考的页面**：
+- `/slides/slide-04b-nuwa-flow.html` · 静态 dashboard + cinematic overlay 双层架构
+- `/slides/slide-06b-darwin-flow.html` · 完全独立视觉语言的对照案例
+- `/slides/slide-03b-deepseek-cover.html` · AI slop vs 真实设计师视角的对比页
+
+详细 cinematic patterns 见 `references/cinematic-patterns.md`。
+
+---
+
 ## 核心机制
 
 ### 品牌资产协议
@@ -166,13 +212,14 @@ A/B 测试（v1 vs v2，各跑 6 agent）：**v2 的稳定性方差比 v1 低 5 
 
 ### 设计方向顾问（Fallback）
 
-当用户需求模糊到无法着手时触发：
+当用户需求模糊到无法着手时触发（2.0 重做）：
 
-- 不凭通用直觉硬做，进入 Fallback 模式
-- 从 5 流派 × 20 种设计哲学里推荐 3 个**必须来自不同流派**的差异化方向
-- 每个方向配代表作、气质关键词、代表设计师
-- 并行生成 3 个视觉 Demo 让用户选
+- 先对话澄清 + 主动索要参考（名字 / logo / 品牌色 / 喜欢的参考站）
+- 取齐内容必需的真图（公共领域 / 免版权，脚本一键抓），再开工
+- **三套互补逻辑并行 subagent**，各出一版**真实视觉**：① 秒数轮盘（`date +%S` 取秒，20 选 1，打破模型偷选极简的惯性）② 现实参照（世界级获奖网站 / PPT / iOS 原型迁移）③ 最佳设计师（预算无上限时最适合的工作室哲学）
+- **绝不让你在没看到视觉时盲选风格**——三版摆出来，看着选
 - 选定后进入主干 Junior Designer 流程
+- 底层是 **40 种 HTML 原生风格库**（网页 20 + PPT 20，按大胆 / 中性 / 安静分级，纯 CSS 无需生图）作弹药，不是教条
 
 ### Junior Designer 工作流
 
@@ -224,7 +271,8 @@ Claude Design 是**更好的图形工具**，huashu-design 是**让图形工具�
 ```
 huashu-design/
 ├── SKILL.md                 # 主文档（给 agent 读）
-├── README.md                # 本文件（给用户读）
+├── README.md                # 中文 README（默认，本文件）
+├── README.en.md             # 英文 README
 ├── assets/                  # Starter Components
 │   ├── animations.jsx       # Stage + Sprite + Easing + interpolate
 │   ├── ios_frame.jsx        # iPhone 15 Pro bezel
@@ -238,7 +286,7 @@ huashu-design/
 │   └── bgm-*.mp3            # 6 首场景化背景音乐
 ├── references/              # 按任务深入读的子文档
 │   ├── animation-pitfalls.md
-│   ├── design-styles.md     # 20 种设计哲学详细库
+│   ├── design-styles.md     # 40 种 HTML 原生风格库（网页 20 + PPT 20）
 │   ├── slide-decks.md
 │   ├── editable-pptx.md
 │   ├── critique-guide.md
@@ -267,17 +315,19 @@ Anthropic 发布 Claude Design 那天我玩到凌晨四点。几天之后发现�
 
 ---
 
-## License · 使用授权
+## 用 huashu-design 做的产品
 
-**个人使用免费、自由**——学习、研究、创作、给自己做东西、写文章、做副业、发微博发公众号，随便用，不用打招呼。
+**[FanBox · Coding Agent 的驾驶舱](https://github.com/alchaincyf/fanbox)** 的三套界面皮肤，就是用 huashu-design 设计的。指挥 Claude Code / Codex 干活，看清它碰过的每个文件、每一行改动。
 
-**企业商用禁止**——任何公司、团队、或以盈利为目的的组织，想把本 skill 集成到产品、对外服务、给客户交付工作中使用，**必须先和花生联系获得授权**。包括但不限于：
-- 把 skill 作为公司内部工具链的一部分
-- 把 skill 产出物作为对外交付物的主要创作手段
-- 基于 skill 二次开发做成商业产品
-- 在客户商单项目中使用
+[![FanBox · Coding Agent 的驾驶舱](https://raw.githubusercontent.com/alchaincyf/fanbox/master/assets/promo-banner.jpg)](https://github.com/alchaincyf/fanbox)
 
-**商用授权联系方式**见下方社交平台。
+---
+
+## License
+
+**2026-05-14 起改为 MIT 协议。** 此前版本采用「个人使用免费、企业商用需授权」的 Personal Use License，对商用做了限制——现在这层限制完全解除。
+
+按 [MIT License](LICENSE)，你可以**自由使用、修改、分发**本 skill，**包括商业用途**——公司内部用、客户商单交付、做成付费产品对外卖，都没问题。无需事先授权、无需付费、无需打招呼。注明出处不强制，但欢迎。
 
 ---
 
@@ -295,4 +345,4 @@ Anthropic 发布 Claude Design 那天我玩到凌晨四点。几天之后发现�
 | 官网 | huasheng.ai | https://www.huasheng.ai/ |
 | 开发者主页 | bookai.top | https://bookai.top |
 
-商用授权、合作咨询、自媒体约稿 → 以上任一平台私信花生即可。
+合作咨询、自媒体约稿 → 以上任一平台私信花生即可。

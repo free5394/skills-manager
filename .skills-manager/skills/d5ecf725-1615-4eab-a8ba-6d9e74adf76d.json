@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d5ecf725-1615-4eab-a8ba-6d9e74adf76d",
+  "path": "huashu-article-to-x",
+  "path_key": "huashu-article-to-x",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-article-to-x",
+    "subpath": "huashu-article-to-x",
+    "branch": null
+  }
+}

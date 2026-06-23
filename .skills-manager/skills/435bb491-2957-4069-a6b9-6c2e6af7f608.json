@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "435bb491-2957-4069-a6b9-6c2e6af7f608",
+  "path": "mrbeast-perspective",
+  "path_key": "mrbeast-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/mrbeast-perspective",
+    "subpath": "examples\\mrbeast-perspective",
+    "branch": null
+  }
+}

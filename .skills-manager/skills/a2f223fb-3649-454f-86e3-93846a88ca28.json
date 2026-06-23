@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a2f223fb-3649-454f-86e3-93846a88ca28",
+  "path": "taleb-perspective",
+  "path_key": "taleb-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/taleb-perspective",
+    "subpath": "examples\\taleb-perspective",
+    "branch": null
+  }
+}

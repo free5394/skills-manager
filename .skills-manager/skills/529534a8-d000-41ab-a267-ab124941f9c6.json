@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "529534a8-d000-41ab-a267-ab124941f9c6",
+  "path": "huashu-article-edit",
+  "path_key": "huashu-article-edit",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-article-edit",
+    "subpath": "huashu-article-edit",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "2fd2761a-217b-4c09-acc5-e25ffcc348f2",
+  "path": "huashu-data-pro",
+  "path_key": "huashu-data-pro",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-data-pro",
+    "subpath": "huashu-data-pro",
+    "branch": null
+  }
+}

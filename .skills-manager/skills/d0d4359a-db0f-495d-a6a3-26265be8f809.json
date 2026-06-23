@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d0d4359a-db0f-495d-a6a3-26265be8f809",
+  "path": "huashu-proofreading",
+  "path_key": "huashu-proofreading",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-proofreading",
+    "subpath": "huashu-proofreading",
+    "branch": null
+  }
+}

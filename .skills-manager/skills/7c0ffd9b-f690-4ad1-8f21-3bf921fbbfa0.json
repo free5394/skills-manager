@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "7c0ffd9b-f690-4ad1-8f21-3bf921fbbfa0",
+  "path": "munger-perspective",
+  "path_key": "munger-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/munger-perspective",
+    "subpath": "examples\\munger-perspective",
+    "branch": null
+  }
+}

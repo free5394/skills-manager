@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b8cd1a04-24d8-4dde-a034-736271aee9d5",
+  "path": "trump-perspective",
+  "path_key": "trump-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/trump-perspective",
+    "subpath": "examples\\trump-perspective",
+    "branch": null
+  }
+}

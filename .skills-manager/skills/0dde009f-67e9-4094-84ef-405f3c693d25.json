@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0dde009f-67e9-4094-84ef-405f3c693d25",
+  "path": "baoyu-wechat-summary",
+  "path_key": "baoyu-wechat-summary",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jimliu/baoyu-skills/baoyu-wechat-summary",
+    "subpath": "skills\\baoyu-wechat-summary",
+    "branch": null
+  }
+}

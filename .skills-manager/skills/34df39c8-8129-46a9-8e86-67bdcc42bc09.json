@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "34df39c8-8129-46a9-8e86-67bdcc42bc09",
+  "path": "huashu-material-search",
+  "path_key": "huashu-material-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-material-search",
+    "subpath": "huashu-material-search",
+    "branch": null
+  }
+}

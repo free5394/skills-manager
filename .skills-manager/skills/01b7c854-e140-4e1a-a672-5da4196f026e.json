@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "01b7c854-e140-4e1a-a672-5da4196f026e",
+  "path": "huashu-agent-swarm",
+  "path_key": "huashu-agent-swarm",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-agent-swarm",
+    "subpath": "huashu-agent-swarm",
+    "branch": null
+  }
+}

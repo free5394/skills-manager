@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "691ab227-9467-412d-b742-db94e13b41f7",
+  "path": "huashu-topic-gen",
+  "path_key": "huashu-topic-gen",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-topic-gen",
+    "subpath": "huashu-topic-gen",
+    "branch": null
+  }
+}

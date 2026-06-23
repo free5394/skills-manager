@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "0dfc95dc-e13e-487d-b373-c93123a374d6",
+  "path": "huashu-douyin-script",
+  "path_key": "huashu-douyin-script",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-douyin-script",
+    "subpath": "huashu-douyin-script",
+    "branch": null
+  }
+}

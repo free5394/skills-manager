@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1e44359c-7a69-412b-bef8-fe023ff67d3b",
+  "path": "huashu-prompt-save",
+  "path_key": "huashu-prompt-save",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-prompt-save",
+    "subpath": "huashu-prompt-save",
+    "branch": null
+  }
+}

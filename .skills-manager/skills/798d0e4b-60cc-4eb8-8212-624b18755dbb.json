@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "798d0e4b-60cc-4eb8-8212-624b18755dbb",
+  "path": "obsidian-bases",
+  "path_key": "obsidian-bases",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "kepano/obsidian-skills/obsidian-bases",
+    "subpath": "skills\\obsidian-bases",
+    "branch": null
+  }
+}

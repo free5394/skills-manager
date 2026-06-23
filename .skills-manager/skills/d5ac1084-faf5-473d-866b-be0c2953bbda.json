@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d5ac1084-faf5-473d-866b-be0c2953bbda",
+  "path": "sun-yuchen-perspective",
+  "path_key": "sun-yuchen-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/sun-yuchen-perspective",
+    "subpath": "examples\\sun-yuchen-perspective",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "99178599-bab2-4d2c-bffd-b505461ea14f",
+  "path": "use-my-browser",
+  "path_key": "use-my-browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "xixu-me/skills/use-my-browser",
+    "subpath": "skills\\use-my-browser",
+    "branch": null
+  }
+}

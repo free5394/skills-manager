@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "e18617c4-ea18-4bce-a980-95154029dd78",
+  "path": "huashu-script-polish",
+  "path_key": "huashu-script-polish",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-script-polish",
+    "subpath": "huashu-script-polish",
+    "branch": null
+  }
+}

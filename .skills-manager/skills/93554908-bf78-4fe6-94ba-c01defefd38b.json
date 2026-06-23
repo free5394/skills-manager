@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "93554908-bf78-4fe6-94ba-c01defefd38b",
+  "path": "huashu-info-search",
+  "path_key": "huashu-info-search",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-info-search",
+    "subpath": "huashu-info-search",
+    "branch": null
+  }
+}

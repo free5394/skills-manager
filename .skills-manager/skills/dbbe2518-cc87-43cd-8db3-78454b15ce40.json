@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "dbbe2518-cc87-43cd-8db3-78454b15ce40",
+  "path": "huashu-slides",
+  "path_key": "huashu-slides",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-slides",
+    "subpath": "huashu-slides",
+    "branch": null
+  }
+}

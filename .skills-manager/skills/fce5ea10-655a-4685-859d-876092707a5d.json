@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fce5ea10-655a-4685-859d-876092707a5d",
+  "path": "naval-perspective",
+  "path_key": "naval-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/naval-perspective",
+    "subpath": "examples\\naval-perspective",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "997d6ac6-c69e-427a-962e-4bc180aff2e3",
+  "path": "andrej-karpathy-perspective",
+  "path_key": "andrej-karpathy-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/andrej-karpathy-perspective",
+    "subpath": "examples\\andrej-karpathy-perspective",
+    "branch": null
+  }
+}

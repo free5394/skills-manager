@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "1cbf556f-f92a-46db-83ce-8d7d97f2b0bb",
+  "path": "paul-graham-perspective",
+  "path_key": "paul-graham-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/paul-graham-perspective",
+    "subpath": "examples\\paul-graham-perspective",
+    "branch": null
+  }
+}

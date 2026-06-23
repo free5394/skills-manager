@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "a95677ad-3e02-4cbd-9fe9-6e46992aabf1",
+  "path": "baoyu-post-to-weibo",
+  "path_key": "baoyu-post-to-weibo",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "jimliu/baoyu-skills/baoyu-post-to-weibo",
+    "subpath": "skills\\baoyu-post-to-weibo",
+    "branch": null
+  }
+}

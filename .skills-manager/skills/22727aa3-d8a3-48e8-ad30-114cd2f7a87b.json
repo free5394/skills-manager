@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "22727aa3-d8a3-48e8-ad30-114cd2f7a87b",
+  "path": "huashu-wechat-image",
+  "path_key": "huashu-wechat-image",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/huashu-skills/huashu-wechat-image",
+    "subpath": "huashu-wechat-image",
+    "branch": null
+  }
+}

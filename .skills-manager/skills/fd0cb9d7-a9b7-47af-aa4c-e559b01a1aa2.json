@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "fd0cb9d7-a9b7-47af-aa4c-e559b01a1aa2",
+  "path": "elon-musk-perspective",
+  "path_key": "elon-musk-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/elon-musk-perspective",
+    "subpath": "examples\\elon-musk-perspective",
+    "branch": null
+  }
+}

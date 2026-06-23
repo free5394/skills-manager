@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b83aa7a6-9e55-45b2-b1ed-6ea3c1afc56d",
+  "path": "zhang-yiming-perspective",
+  "path_key": "zhang-yiming-perspective",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/zhang-yiming-perspective",
+    "subpath": "examples\\zhang-yiming-perspective",
+    "branch": null
+  }
+}
