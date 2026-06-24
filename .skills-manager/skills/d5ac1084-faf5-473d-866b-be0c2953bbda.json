@@ -4,7 +4,9 @@
   "path": "sun-yuchen-perspective",
   "path_key": "sun-yuchen-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/sun-yuchen-perspective",

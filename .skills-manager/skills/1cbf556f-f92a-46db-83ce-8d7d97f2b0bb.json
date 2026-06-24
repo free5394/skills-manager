@@ -4,7 +4,9 @@
   "path": "paul-graham-perspective",
   "path_key": "paul-graham-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/paul-graham-perspective",

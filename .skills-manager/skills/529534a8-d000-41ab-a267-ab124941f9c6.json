@@ -4,7 +4,9 @@
   "path": "huashu-article-edit",
   "path_key": "huashu-article-edit",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-article-edit",

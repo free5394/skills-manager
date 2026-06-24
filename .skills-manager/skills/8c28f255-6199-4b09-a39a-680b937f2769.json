@@ -4,7 +4,9 @@
   "path": "browser-use",
   "path_key": "browser-use",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "浏览器"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "browser-use/browser-use/browser-use",

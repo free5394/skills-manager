@@ -4,7 +4,9 @@
   "path": "huashu-script-polish",
   "path_key": "huashu-script-polish",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-script-polish",

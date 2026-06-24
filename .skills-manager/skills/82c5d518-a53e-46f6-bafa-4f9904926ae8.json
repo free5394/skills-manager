@@ -4,7 +4,10 @@
   "path": "nuwa-skill",
   "path_key": "nuwa-skill",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu",
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/nuwa-skill",

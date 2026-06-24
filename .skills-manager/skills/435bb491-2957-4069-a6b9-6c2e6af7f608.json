@@ -4,7 +4,9 @@
   "path": "mrbeast-perspective",
   "path_key": "mrbeast-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/mrbeast-perspective",

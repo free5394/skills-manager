@@ -4,7 +4,9 @@
   "path": "huashu-data-pro",
   "path_key": "huashu-data-pro",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-data-pro",

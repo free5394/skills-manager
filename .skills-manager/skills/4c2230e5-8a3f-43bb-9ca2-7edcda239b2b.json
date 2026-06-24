@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "4c2230e5-8a3f-43bb-9ca2-7edcda239b2b",
+  "path": "firecrawl-knowledge-ingest",
+  "path_key": "firecrawl-knowledge-ingest",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/firecrawl-workflows/firecrawl-knowledge-ingest",
+    "subpath": "skills\\firecrawl-knowledge-ingest",
+    "branch": null
+  }
+}

@@ -4,7 +4,9 @@
   "path": "huashu-xhs-image",
   "path_key": "huashu-xhs-image",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-xhs-image",

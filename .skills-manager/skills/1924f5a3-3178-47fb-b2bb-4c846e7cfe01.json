@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "1924f5a3-3178-47fb-b2bb-4c846e7cfe01",
+  "path": "firecrawl-market-research",
+  "path_key": "firecrawl-market-research",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/firecrawl-workflows/firecrawl-market-research",
+    "subpath": "skills\\firecrawl-market-research",
+    "branch": null
+  }
+}

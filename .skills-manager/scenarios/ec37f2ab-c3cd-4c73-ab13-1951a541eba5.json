@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "scenario_id": "ec37f2ab-c3cd-4c73-ab13-1951a541eba5",
+  "name": "opencli",
+  "description": null,
+  "icon": "briefcase",
+  "sort_order": 999
+}

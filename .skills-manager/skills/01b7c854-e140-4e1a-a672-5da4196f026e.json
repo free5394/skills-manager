@@ -4,7 +4,9 @@
   "path": "huashu-agent-swarm",
   "path_key": "huashu-agent-swarm",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-agent-swarm",

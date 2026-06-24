@@ -4,7 +4,9 @@
   "path": "huashu-speech-coach",
   "path_key": "huashu-speech-coach",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-speech-coach",

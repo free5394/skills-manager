@@ -4,7 +4,9 @@
   "path": "naval-perspective",
   "path_key": "naval-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/naval-perspective",

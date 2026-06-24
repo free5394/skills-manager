@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "0902426b-3d29-462f-946e-a4b3c3506e4c",
+  "path": "firecrawl-demo-walkthrough",
+  "path_key": "firecrawl-demo-walkthrough",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/firecrawl-workflows/firecrawl-demo-walkthrough",
+    "subpath": "skills\\firecrawl-demo-walkthrough",
+    "branch": null
+  }
+}

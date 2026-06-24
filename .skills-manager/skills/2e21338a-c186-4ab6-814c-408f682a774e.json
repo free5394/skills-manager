@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "2e21338a-c186-4ab6-814c-408f682a774e",
+  "path": "opencli-autofix",
+  "path_key": "opencli-autofix",
+  "enabled": true,
+  "tags": [
+    "OpenCLI"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

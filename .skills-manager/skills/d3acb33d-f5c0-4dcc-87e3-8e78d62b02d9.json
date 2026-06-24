@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "d3acb33d-f5c0-4dcc-87e3-8e78d62b02d9",
+  "path": "firecrawl-research-index",
+  "path_key": "firecrawl-research-index",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/skills/firecrawl-research-index",
+    "subpath": "skills\\firecrawl-research-index",
+    "branch": null
+  }
+}

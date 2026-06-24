@@ -4,7 +4,9 @@
   "path": "huashu-material-search",
   "path_key": "huashu-material-search",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-material-search",

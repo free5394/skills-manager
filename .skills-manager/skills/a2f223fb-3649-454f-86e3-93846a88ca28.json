@@ -4,7 +4,9 @@
   "path": "taleb-perspective",
   "path_key": "taleb-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/taleb-perspective",

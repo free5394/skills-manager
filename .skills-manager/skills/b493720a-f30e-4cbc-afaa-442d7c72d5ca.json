@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "b493720a-f30e-4cbc-afaa-442d7c72d5ca",
+  "path": "opencli-adapter-author",
+  "path_key": "opencli-adapter-author",
+  "enabled": true,
+  "tags": [
+    "OpenCLI"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

@@ -4,7 +4,9 @@
   "path": "huashu-design",
   "path_key": "huashu-design",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-design/huashu-design",

@@ -4,7 +4,9 @@
   "path": "huashu-proofreading",
   "path_key": "huashu-proofreading",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-proofreading",

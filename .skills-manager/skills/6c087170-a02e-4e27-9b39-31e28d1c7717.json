@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "6c087170-a02e-4e27-9b39-31e28d1c7717",
+  "path": "opencli-sitemap-author",
+  "path_key": "opencli-sitemap-author",
+  "enabled": true,
+  "tags": [
+    "OpenCLI"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

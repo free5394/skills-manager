@@ -4,7 +4,9 @@
   "path": "huashu-research",
   "path_key": "huashu-research",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-research",

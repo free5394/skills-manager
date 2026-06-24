@@ -4,7 +4,9 @@
   "path": "huashu-topic-gen",
   "path_key": "huashu-topic-gen",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-topic-gen",

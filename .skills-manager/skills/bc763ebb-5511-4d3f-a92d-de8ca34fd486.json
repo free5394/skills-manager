@@ -4,7 +4,9 @@
   "path": "karpathy-guidelines",
   "path_key": "karpathy-guidelines",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "code"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "multica-ai/andrej-karpathy-skills/karpathy-guidelines",

@@ -4,7 +4,9 @@
   "path": "huashu-douyin-script",
   "path_key": "huashu-douyin-script",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-douyin-script",

@@ -4,7 +4,9 @@
   "path": "elon-musk-perspective",
   "path_key": "elon-musk-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/elon-musk-perspective",

@@ -4,7 +4,9 @@
   "path": "munger-perspective",
   "path_key": "munger-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/munger-perspective",

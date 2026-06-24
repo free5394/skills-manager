@@ -4,7 +4,9 @@
   "path": "use-my-browser",
   "path_key": "use-my-browser",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "浏览器"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "xixu-me/skills/use-my-browser",

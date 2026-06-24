@@ -4,7 +4,9 @@
   "path": "ilya-sutskever-perspective",
   "path_key": "ilya-sutskever-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/ilya-sutskever-perspective",

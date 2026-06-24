@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "75bbd68f-af5b-4af0-95f9-350b3eca25c0",
+  "path": "smart-search",
+  "path_key": "smart-search",
+  "enabled": true,
+  "tags": [
+    "OpenCLI"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

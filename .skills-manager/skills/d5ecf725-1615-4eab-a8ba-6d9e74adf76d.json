@@ -4,7 +4,9 @@
   "path": "huashu-article-to-x",
   "path_key": "huashu-article-to-x",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-article-to-x",

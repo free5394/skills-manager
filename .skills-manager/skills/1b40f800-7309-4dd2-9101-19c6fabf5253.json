@@ -4,7 +4,9 @@
   "path": "x-mastery-mentor",
   "path_key": "x-mastery-mentor",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/x-mastery-mentor",

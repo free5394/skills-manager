@@ -4,7 +4,9 @@
   "path": "huashu-md-to-pdf",
   "path_key": "huashu-md-to-pdf",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-md-to-pdf",

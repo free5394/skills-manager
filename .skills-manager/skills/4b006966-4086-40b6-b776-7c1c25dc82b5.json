@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "4b006966-4086-40b6-b776-7c1c25dc82b5",
+  "path": "firecrawl-build-onboarding",
+  "path_key": "firecrawl-build-onboarding",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/skills/firecrawl-build-onboarding",
+    "subpath": "skills\\firecrawl-build-onboarding",
+    "branch": null
+  }
+}

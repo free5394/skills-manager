@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "80d56213-0474-43f8-9f1f-802726be433c",
+  "path": "firecrawl-build-interact",
+  "path_key": "firecrawl-build-interact",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/skills/firecrawl-build-interact",
+    "subpath": "skills\\firecrawl-build-interact",
+    "branch": null
+  }
+}

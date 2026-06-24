@@ -4,7 +4,9 @@
   "path": "huashu-video-outline",
   "path_key": "huashu-video-outline",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-video-outline",

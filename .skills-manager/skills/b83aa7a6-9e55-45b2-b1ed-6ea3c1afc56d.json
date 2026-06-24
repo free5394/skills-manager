@@ -4,7 +4,9 @@
   "path": "zhang-yiming-perspective",
   "path_key": "zhang-yiming-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/zhang-yiming-perspective",

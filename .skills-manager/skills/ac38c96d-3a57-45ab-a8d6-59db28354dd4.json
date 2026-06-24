@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "ac38c96d-3a57-45ab-a8d6-59db28354dd4",
+  "path": "firecrawl-lead-gen",
+  "path_key": "firecrawl-lead-gen",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/firecrawl-workflows/firecrawl-lead-gen",
+    "subpath": "skills\\firecrawl-lead-gen",
+    "branch": null
+  }
+}

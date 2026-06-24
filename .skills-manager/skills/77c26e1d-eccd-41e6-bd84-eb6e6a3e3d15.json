@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "77c26e1d-eccd-41e6-bd84-eb6e6a3e3d15",
+  "path": "firecrawl-lead-research",
+  "path_key": "firecrawl-lead-research",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/firecrawl-workflows/firecrawl-lead-research",
+    "subpath": "skills\\firecrawl-lead-research",
+    "branch": null
+  }
+}

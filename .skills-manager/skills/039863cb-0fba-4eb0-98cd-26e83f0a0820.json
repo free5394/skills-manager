@@ -4,7 +4,9 @@
   "path": "huashu-video-check",
   "path_key": "huashu-video-check",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-video-check",

@@ -4,7 +4,9 @@
   "path": "steve-jobs-perspective",
   "path_key": "steve-jobs-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/steve-jobs-perspective",

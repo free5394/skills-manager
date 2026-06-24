@@ -4,7 +4,9 @@
   "path": "baoyu-electron-extract",
   "path_key": "baoyu-electron-extract",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "baoyu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "jimliu/baoyu-skills/baoyu-electron-extract",

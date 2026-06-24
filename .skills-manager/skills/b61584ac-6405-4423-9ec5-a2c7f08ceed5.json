@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "b61584ac-6405-4423-9ec5-a2c7f08ceed5",
+  "path": "firecrawl-dashboard-reporting",
+  "path_key": "firecrawl-dashboard-reporting",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/firecrawl-workflows/firecrawl-dashboard-reporting",
+    "subpath": "skills\\firecrawl-dashboard-reporting",
+    "branch": null
+  }
+}

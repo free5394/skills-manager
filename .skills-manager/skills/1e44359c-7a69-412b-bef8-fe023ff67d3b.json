@@ -4,7 +4,9 @@
   "path": "huashu-prompt-save",
   "path_key": "huashu-prompt-save",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-prompt-save",

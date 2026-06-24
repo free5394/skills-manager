@@ -4,7 +4,9 @@
   "path": "huashu-wechat-image",
   "path_key": "huashu-wechat-image",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "huashu"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/huashu-wechat-image",

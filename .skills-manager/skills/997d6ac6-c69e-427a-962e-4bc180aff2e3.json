@@ -4,7 +4,9 @@
   "path": "andrej-karpathy-perspective",
   "path_key": "andrej-karpathy-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/andrej-karpathy-perspective",

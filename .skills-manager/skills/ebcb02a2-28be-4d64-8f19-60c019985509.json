@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "ebcb02a2-28be-4d64-8f19-60c019985509",
+  "path": "web-access",
+  "path_key": "web-access",
+  "enabled": true,
+  "tags": [
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "eze-is/web-access/web-access",
+    "subpath": null,
+    "branch": null
+  }
+}

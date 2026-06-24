@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "516fa98e-2190-45bc-86d7-acbb5703fc72",
+  "path": "firecrawl-company-directories",
+  "path_key": "firecrawl-company-directories",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/firecrawl-workflows/firecrawl-company-directories",
+    "subpath": "skills\\firecrawl-company-directories",
+    "branch": null
+  }
+}

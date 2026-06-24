@@ -4,7 +4,9 @@
   "path": "trump-perspective",
   "path_key": "trump-perspective",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "名人"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/nuwa-skill/trump-perspective",

@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
   "scenario_id": "080c8382-986e-4aae-9c5e-9ce9792d00ba",
-  "name": "claude code",
+  "name": "claude",
   "description": null,
   "icon": "briefcase",
-  "sort_order": 999
+  "sort_order": 3
 }

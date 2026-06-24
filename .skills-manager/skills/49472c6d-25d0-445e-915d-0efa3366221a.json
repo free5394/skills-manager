@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "49472c6d-25d0-445e-915d-0efa3366221a",
+  "path": "firecrawl-competitive-intel",
+  "path_key": "firecrawl-competitive-intel",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/firecrawl-workflows/firecrawl-competitive-intel",
+    "subpath": "skills\\firecrawl-competitive-intel",
+    "branch": null
+  }
+}

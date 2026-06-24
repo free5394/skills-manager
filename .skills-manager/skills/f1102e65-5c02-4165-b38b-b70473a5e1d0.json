@@ -4,7 +4,9 @@
   "path": "markdown-to-pdf",
   "path_key": "markdown-to-pdf",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "文档"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "alchaincyf/huashu-skills/markdown-to-pdf",

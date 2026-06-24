@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "skill_id": "f22b9867-4be5-4b8e-a28c-c339d6dedc62",
+  "path": "firecrawl-qa",
+  "path_key": "firecrawl-qa",
+  "enabled": true,
+  "tags": [
+    "firecrawl",
+    "联网"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "firecrawl/firecrawl-workflows/firecrawl-qa",
+    "subpath": "skills\\firecrawl-qa",
+    "branch": null
+  }
+}
