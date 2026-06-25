@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "55994422-ee07-4892-bee8-bddbe646f58c",
+  "path": "browser",
+  "path_key": "browser",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "browser-use/browser-harness/browser",
+    "subpath": null,
+    "branch": null
+  }
+}
