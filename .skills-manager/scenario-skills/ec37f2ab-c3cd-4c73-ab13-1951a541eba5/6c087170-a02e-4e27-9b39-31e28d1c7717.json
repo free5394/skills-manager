@@ -7,6 +7,6 @@
     "claude_code": true,
     "codex": true,
     "opencode": true,
-    "trae_cn": true
+    "trae_cn": false
   }
 }
