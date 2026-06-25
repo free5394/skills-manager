@@ -5,7 +5,8 @@
   "path_key": "browser-use",
   "enabled": true,
   "tags": [
-    "浏览器"
+    "浏览器",
+    "联网"
   ],
   "source": {
     "type": "skillssh",

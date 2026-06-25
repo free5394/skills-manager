@@ -5,6 +5,7 @@
   "path_key": "agent-browser",
   "enabled": true,
   "tags": [
+    "浏览器",
     "联网"
   ],
   "source": {

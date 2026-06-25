@@ -4,7 +4,10 @@
   "path": "browser",
   "path_key": "browser",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "浏览器",
+    "联网"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "browser-use/browser-harness/browser",

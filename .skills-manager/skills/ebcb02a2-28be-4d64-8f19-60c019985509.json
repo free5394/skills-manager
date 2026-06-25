@@ -5,6 +5,7 @@
   "path_key": "web-access",
   "enabled": true,
   "tags": [
+    "浏览器",
     "联网"
   ],
   "source": {
