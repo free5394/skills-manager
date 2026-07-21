@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "d1eeadd3-3ba3-440f-97e2-2e551e7ac8d7",
+  "path": "shellcheck-configuration",
+  "path_key": "shellcheck-configuration",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "wshobson/agents/shellcheck-configuration",
+    "subpath": "plugins\\shell-scripting\\skills\\shellcheck-configuration",
+    "branch": null
+  }
+}
