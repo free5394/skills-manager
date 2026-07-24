@@ -5,7 +5,7 @@
   "sort_order": 1,
   "tools": {
     "claude_code": true,
-    "codex": true,
+    "codex": false,
     "opencode": true,
     "trae_cn": true
   }
