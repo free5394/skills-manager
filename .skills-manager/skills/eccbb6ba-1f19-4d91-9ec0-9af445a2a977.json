@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "eccbb6ba-1f19-4d91-9ec0-9af445a2a977",
+  "path": "lark-workflow-standup-report",
+  "path_key": "lark-workflow-standup-report",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "larksuite/cli/lark-workflow-standup-report",
+    "subpath": "skills\\lark-workflow-standup-report",
+    "branch": null
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "33022be9-010a-4165-8b23-3691c1356c13",
+  "path": "lark-approval",
+  "path_key": "lark-approval",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "larksuite/cli/lark-approval",
+    "subpath": "skills\\lark-approval",
+    "branch": null
+  }
+}

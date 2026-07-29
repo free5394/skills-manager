@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "57ec6ad2-80b5-42fd-b2c5-6adbecb4ecaa",
+  "path": "lark-attendance",
+  "path_key": "lark-attendance",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "larksuite/cli/lark-attendance",
+    "subpath": "skills\\lark-attendance",
+    "branch": null
+  }
+}

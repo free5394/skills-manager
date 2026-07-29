@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "3b4c784e-5e3e-4b6b-95dc-967fc4d61248",
+  "path": "lark-event",
+  "path_key": "lark-event",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "larksuite/cli/lark-event",
+    "subpath": "skills\\lark-event",
+    "branch": null
+  }
+}

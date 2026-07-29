@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "b5e84fa6-529e-4f43-bd49-3eff180ee91d",
+  "path": "lark-note",
+  "path_key": "lark-note",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "larksuite/cli/lark-note",
+    "subpath": "skills\\lark-note",
+    "branch": null
+  }
+}
