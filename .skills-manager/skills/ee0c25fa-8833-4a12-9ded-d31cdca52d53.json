@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "ee0c25fa-8833-4a12-9ded-d31cdca52d53",
+  "path": "wrangler",
+  "path_key": "wrangler",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "cloudflare/skills/wrangler",
+    "subpath": "skills\\wrangler",
+    "branch": null
+  }
+}
