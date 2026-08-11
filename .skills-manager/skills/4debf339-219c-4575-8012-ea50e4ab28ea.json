@@ -4,7 +4,9 @@
   "path": "lark-openapi-explorer",
   "path_key": "lark-openapi-explorer",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-openapi-explorer",

@@ -4,7 +4,9 @@
   "path": "lark-drive",
   "path_key": "lark-drive",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-drive",

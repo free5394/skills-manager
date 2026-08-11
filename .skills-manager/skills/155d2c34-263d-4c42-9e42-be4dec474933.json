@@ -4,7 +4,9 @@
   "path": "lark-slides",
   "path_key": "lark-slides",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-slides",

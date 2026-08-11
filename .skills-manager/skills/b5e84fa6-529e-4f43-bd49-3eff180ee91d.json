@@ -4,7 +4,9 @@
   "path": "lark-note",
   "path_key": "lark-note",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-note",

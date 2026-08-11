@@ -4,7 +4,9 @@
   "path": "wrangler",
   "path_key": "wrangler",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "cloudflare"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "cloudflare/skills/wrangler",

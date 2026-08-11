@@ -4,7 +4,9 @@
   "path": "playwright-cli",
   "path_key": "playwright-cli",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "浏览器"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "microsoft/playwright-cli/playwright-cli",

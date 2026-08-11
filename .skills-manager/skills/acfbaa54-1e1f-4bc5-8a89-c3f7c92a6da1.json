@@ -4,7 +4,9 @@
   "path": "lark-workflow-meeting-summary",
   "path_key": "lark-workflow-meeting-summary",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-workflow-meeting-summary",

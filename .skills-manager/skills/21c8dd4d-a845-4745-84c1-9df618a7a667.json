@@ -4,7 +4,9 @@
   "path": "lark-wiki",
   "path_key": "lark-wiki",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-wiki",

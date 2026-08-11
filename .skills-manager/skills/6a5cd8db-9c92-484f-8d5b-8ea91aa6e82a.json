@@ -4,7 +4,9 @@
   "path": "lark-minutes",
   "path_key": "lark-minutes",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-minutes",

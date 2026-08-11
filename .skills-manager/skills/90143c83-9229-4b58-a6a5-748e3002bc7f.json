@@ -4,7 +4,9 @@
   "path": "lark-skill-maker",
   "path_key": "lark-skill-maker",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-skill-maker",

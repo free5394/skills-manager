@@ -4,7 +4,9 @@
   "path": "lark-contact",
   "path_key": "lark-contact",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-contact",

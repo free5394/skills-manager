@@ -4,7 +4,9 @@
   "path": "lark-base",
   "path_key": "lark-base",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-base",

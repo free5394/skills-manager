@@ -4,7 +4,9 @@
   "path": "lark-workflow-standup-report",
   "path_key": "lark-workflow-standup-report",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-workflow-standup-report",

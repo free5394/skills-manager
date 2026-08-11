@@ -4,7 +4,9 @@
   "path": "lark-im",
   "path_key": "lark-im",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-im",

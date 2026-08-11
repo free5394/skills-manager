@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "9ac3dfa7-9d55-40a4-9fcd-12d3f7dc39a2",
+  "path": "huashu-nuwa",
+  "path_key": "huashu-nuwa",
+  "enabled": true,
+  "tags": [
+    "名人"
+  ],
+  "source": {
+    "type": "skillssh",
+    "ref": "alchaincyf/nuwa-skill/huashu-nuwa",
+    "subpath": null,
+    "branch": null
+  }
+}

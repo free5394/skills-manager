@@ -4,7 +4,9 @@
   "path": "lark-vc",
   "path_key": "lark-vc",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-vc",

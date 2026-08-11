@@ -4,7 +4,9 @@
   "path": "lark-okr",
   "path_key": "lark-okr",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-okr",

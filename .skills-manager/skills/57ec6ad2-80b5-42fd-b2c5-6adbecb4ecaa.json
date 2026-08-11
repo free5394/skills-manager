@@ -4,7 +4,9 @@
   "path": "lark-attendance",
   "path_key": "lark-attendance",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "飞书"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "larksuite/cli/lark-attendance",
