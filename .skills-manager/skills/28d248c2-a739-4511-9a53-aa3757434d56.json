@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "28d248c2-a739-4511-9a53-aa3757434d56",
+  "path": "find-docs",
+  "path_key": "find-docs",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "upstash/context7/find-docs",
+    "subpath": "skills\\find-docs",
+    "branch": null
+  }
+}
