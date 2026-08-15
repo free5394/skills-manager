@@ -6,7 +6,7 @@
   "tools": {
     "claude_code": false,
     "codex": true,
-    "opencode": true,
+    "opencode": false,
     "trae_cn": true
   }
 }
