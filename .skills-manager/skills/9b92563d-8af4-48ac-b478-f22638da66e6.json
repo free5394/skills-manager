@@ -4,7 +4,9 @@
   "path": "find-docs",
   "path_key": "find-docs",
   "enabled": true,
-  "tags": [],
+  "tags": [
+    "docs"
+  ],
   "source": {
     "type": "skillssh",
     "ref": "upstash/context7/find-docs",
