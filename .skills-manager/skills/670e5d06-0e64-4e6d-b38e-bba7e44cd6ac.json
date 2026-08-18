@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "670e5d06-0e64-4e6d-b38e-bba7e44cd6ac",
+  "path": "yes",
+  "path_key": "yes",
+  "enabled": true,
+  "tags": [
+    "pua"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}

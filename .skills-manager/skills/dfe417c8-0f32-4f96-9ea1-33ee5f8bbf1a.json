@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "skill_id": "dfe417c8-0f32-4f96-9ea1-33ee5f8bbf1a",
+  "path": "ding",
+  "path_key": "ding",
+  "enabled": true,
+  "tags": [
+    "pua"
+  ],
+  "source": {
+    "type": "local",
+    "ref": null,
+    "subpath": null,
+    "branch": null
+  }
+}
